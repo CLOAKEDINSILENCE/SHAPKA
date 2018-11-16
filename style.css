@@ -31,8 +31,9 @@
 }
 .right
 {
-	width: 457px;
+	width: 0px;
 	height: 1000px;
 	background-color: lightgray;
 	border: 1px solid black;
 }
+
