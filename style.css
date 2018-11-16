@@ -15,7 +15,8 @@
 
 
 	body {
-		font: normal normal normal 12px Tahoma, sans-serif ;
+		font: normal normal normal 12px Tahoma, sans-serif;
+
 }
 
 .wrapper {
@@ -34,6 +35,6 @@
 	width: 0px;
 	height: 1000px;
 	background-color: lightgray;
-	border: 1px solid black;
+	border: 0px solid black;
 }
 
